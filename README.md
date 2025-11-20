@@ -1,5 +1,5 @@
 # 💫 About Me:
-👥 I'm looking to collaborate on<br>Product-driven data projects in EnterpriseTech, AviationTech, HealthTech, EdTech, or early-stage startups where analytics meets user impact.<br><br>🌱 I'm currently learning<br>Full-stack development (Spring Boot, ReactJS), ML, DevOps, mobile apps, and advanced product growth frameworks.<br><br>💬 Ask me about<br>Scaling a nonprofit to 1,500 users, building SQL pipelines, or breaking into product management from analytics.<br><br>⚡ Fun fact<br>I make fact-based decisions and thrive in chaos—also fluent in English, Burmese, and survival Mandarin! And I go-kart.
+🌱 Aspiring business leader with coding skills.
 
 
 ## 🌐 Socials:
