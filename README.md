@@ -16,6 +16,7 @@ I combine business management with programming & analysis.**
 * Dear Diary Web App
 * Shopping Cart E-Commerce Web App
 * Personal Website
+* Simple Weather with Python
 * Data Visualization with PowerBI & Tableau
 * MySQL Scripts
 * Product Design & SDLC
