@@ -15,6 +15,7 @@ I combine business management with programming & analysis.**
 ### 🔝 Main Projects
 * Image Classifier - CNN (Private)
 * Flip A Card Android Game (Pivate)
+* Timochi - Pomodoro Android App
 * Shopping Cart E-Commerce Web App (Java + Spring + Thymeleaf + React)
 * Dear Diary (Java + Spring + Thymeleaf)
 * Personal Website (HTML + CSS + JS)
