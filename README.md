@@ -1,5 +1,5 @@
 # 💫 About Me:
-🌉 I bridge business and engineering<br>✈️ I trained in aviation<br>💻 I build full-stack apps and data systems<br>📊 I turn data into decisions
+🌉 I bridge business and engineering<br>✈️ I am a domain expert in aviation<br>💻 I build end-to-end apps and data systems<br>📊 I solve ambiguous business problems through structured analysis and data-driven insights
 
 
 ## 🌐 Socials:
@@ -14,20 +14,13 @@
 ### 🔝 Main Projects
 🌐 = deployed &nbsp;&nbsp; 💻 = runs locally
 
-**Web Apps**
-- 💻 Shopping Cart E-Commerce (Java, Spring Boot, Thymeleaf, React)
-- 🌐 Dear Diary (TypeScript, Next.js, Swift)
-- 🌐 Personal Website (HTML, CSS, JS)
-
-**Mobile**
-- 💻 Flip A Card - Android Game
-- 💻 Timochi - Pomodoro App (Android)
-
-**Data & ML**
-- 💻 Image Classifier - CNN
-- Data Visualization (Power BI, Tableau)
-- MySQL Scripts
-
-**Other**
-- Product Design & SDLC Documentation
-- 💻 Simple Weather App (Python)
+- 🌐 [Dear Diary](https://deardiary.vercel.app)
+- 🌐 [Personal Website](https://glennmin.vercel.app)
+- 💻 Shopping Cart E-Commerce
+- 💻 Flip A Card: Android Game
+- 💻 Timochi: Pomodoro App
+- 💻 Image Classifier with CNN
+- 💻 Simple Weather App
+- Various Data Visualization Dashboards
+- Various MySQL Scripts
+- Various Product Design & SDLC Documentation
