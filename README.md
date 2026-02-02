@@ -11,7 +11,7 @@
 ## 🔝 Main Projects
 🌐 = deployed &nbsp;&nbsp; 💻 = runs locally
 
-- 🌐 [Dear Diary](https://deardiary.vercel.app) - To write your diary like Lady Whistledown, by any means of creavity you may have.
+- 🌐 [Dear Diary](https://deardiary.vercel.app) - To write your diaries like Lady Whistledown, by any means of creativity you may have.
 - 🌐 [Personal Website](https://glennmin.vercel.app) - My Personal Website, to brag about me honestly.
 - Soon to deploy: [stratLens]() - An AI-powered framework analysis app for consultants, strategists, and analysts.
 - 💻 Shopping Cart E-Commerce
