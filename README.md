@@ -13,7 +13,7 @@
 
 - 🌐 [Dear Diary](https://deardiary.vercel.app) - To write your diaries like Lady Whistledown, by any means of creativity you may have.
 - 🌐 [Personal Website](https://glennmin.vercel.app) - My Personal Website
-- 🌐 [stratLens]() - An AI-powered framework analysis app for consultants, strategists, and analysts.
+- 🌐 [stratLens](https://stratlens.tech) - An AI-powered framework analysis app for consultants, strategists, and analysts.
 - 💻 Shopping Cart E-Commerce
 - 💻 Flip A Card: Android Game
 - 💻 Timochi: Pomodoro App
