@@ -12,4 +12,4 @@
 - 🌐 [Dear Diary](https://deardiary.vercel.app) - To write your diaries like Lady Whistledown, by any means of creativity you may have.
 - 🌐 [Personal Website](https://glennmin.vercel.app) - My Personal Website
 - 🌐 [stratLens](https://stratlens.tech) - An AI-powered framework analysis app for consultants, strategists, and analysts.
--  Hedwing (In Development)
+- 🌐 Hedwing - A personal daily news briefing that fetches, curates, and emails me a 20-30 minute digest of news (from politics to art) from trusted sources every morning.
